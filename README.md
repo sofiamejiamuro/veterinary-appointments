@@ -9,9 +9,12 @@
 - [ ] when there is no appointments show a text 
 - [x] Show the appointments in a list
 - [x] Each appointment should have the possibility to delete it or edit it 
-- [ ] Delte appointment
+- [ ] Delete appointment
 - [ ] Edit appointment
 - [ ] Update interface
+
+
+### Review project and comments
 
 JS Code by [me](https://github.com/sofiamejiamuro)
 
